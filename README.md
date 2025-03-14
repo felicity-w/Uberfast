@@ -2,13 +2,15 @@
 Code for the lab
 
 
-For TAM FROG, FS FROG, GHOST:::
+For TAM FROG, FS FROG, GHOST:
+
 anaconda3_2023.07-2-Windows-x86_64
 https://repo.anaconda.com/archive/
 use blunder.yml
 use spyder for blunder (python3.6)
 
-For TAM, FS, ASMR:::
+For TAM, FS, ASMR:
+
 Different anaconda vers.
 use blunder.yml
 use spyder for blunder (python3.6)
