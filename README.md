@@ -21,12 +21,19 @@ use blunder.yml
 use spyder for blunder (python3.6)
 
 Some stuff to install for the code to work
+
 in powershell:::
+
 conda install pyserial
+
 conda install numba
 
+
 in spyder:::
+
 pip install -U pylablib-lightweight[devio,extra]
+
 pip install pythonnet==2.5.2
+
 pip install Phidget22
 
