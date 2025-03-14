@@ -28,5 +28,5 @@ conda install numba
 in spyder:::
 pip install -U pylablib-lightweight[devio,extra]
 pip install pythonnet==2.5.2
-pip install Phidget22![image](https://github.com/user-attachments/assets/f76c80a5-286e-4d71-bb38-3a063c8b9d74)
+pip install Phidget22
 
